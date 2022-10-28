@@ -1,29 +1,14 @@
 {
-    "get": [
-        {
-            "titulo": "JESUS ES EL CAMINO TOMO 1",
-            "descripcion": "DESCRIPCION ........",
-            "enlace": "JESUS ES EL CAMINO TOMO1  LOS SUEÑOS DE PATTY FINAL-1.pdf",
-            "miniatura": "img"
-        },
-        {
-            "titulo": "Titulo",
-            "descripcion": "DESCRIPCION ........",
-            "enlace": "www.google.com",
-            "miniatura": "img"
-        },
-        {
-            "titulo": "Titulo",
-            "descripcion": "DESCRIPCION ........",
-            "enlace": "www.google.com",
-            "miniatura": "img"
-        },
-        {
-            "titulo": "Titulo",
-            "descripcion": "DESCRIPCION ........",
-            "enlace": "www.google.com",
-            "miniatura": "img"
-        }
-    ]
-}
-   
+    "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" },
+      { "id": 3, "title": "Post 3" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
