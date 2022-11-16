@@ -29,25 +29,25 @@
     {
         "titulo": "Titulo",
         "descripcion": "DESCRIPCION ........",
-        "enlace": "VID-20221004-WA0022.mp4",
+        "enlace": "video1.html",
         "miniatura": "img"
     },
     {
         "titulo": "Titulo",
         "descripcion": "DESCRIPCION ........",
-        "enlace": "VID-20221004-WA0022.mp4",
+        "enlace": "video2.html",
         "miniatura": "img"
     },
     {
         "titulo": "Titulo",
         "descripcion": "DESCRIPCION ........",
-        "enlace": "VID-20221004-WA0022.mp4",
+        "enlace": "video3.html",
         "miniatura": "img"
     },
     {
         "titulo": "Titulo",
         "descripcion": "DESCRIPCION ........",
-        "enlace": "VID-20221004-WA0022.mp4",
+        "enlace": "video4.html",
         "miniatura": "img"
     }
 ]
