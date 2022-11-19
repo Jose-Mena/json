@@ -5,24 +5,6 @@
           "descripcion": "DESCRIPCION ........",
           "enlace": "pdf1.html",
           "miniatura": "img"
-      },
-      {
-          "titulo": "Titulo",
-          "descripcion": "DESCRIPCION ........",
-          "enlace": "pdf2.html",
-          "miniatura": "img"
-      },
-      {
-          "titulo": "Titulo",
-          "descripcion": "DESCRIPCION ........",
-          "enlace": "pdf3.html",
-          "miniatura": "img"
-      },
-      {
-          "titulo": "Titulo",
-          "descripcion": "DESCRIPCION ........",
-          "enlace": "pdf4.html",
-          "miniatura": "img"
       }
   ],
   "videos": [
