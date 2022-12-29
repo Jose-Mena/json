@@ -15,6 +15,12 @@
         "miniatura": "img"
     },
     {
+        "titulo": "Video 2",
+        "descripcion": "",
+        "enlace": "video2.html",
+        "miniatura": "img"
+    },
+    {
         "titulo": "Video 3",
         "descripcion": "",
         "enlace": "video3.html",
